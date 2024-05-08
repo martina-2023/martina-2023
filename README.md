@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying MSc Software Development
-- 🌱 I’m currently learning different software engineering practices
+- 🌱 I’m learning different software engineering practices
 - 💬 Ask me about how many peaks I have conquered hiking
 - ⚡ Fun fact: I love travelling and meeting people from different cultures!
 
