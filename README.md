@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying MSc Software Development
+- 🌱 I’m currently learning different software engineering practices
+- 💬 Ask me about how many peaks I have conquered hiking
+- ⚡ Fun fact: I love travelling and meeting people from different cultures!
+
 <!--
 **martina-2023/martina-2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
